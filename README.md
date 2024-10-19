@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NithishProgrammer
-- 👀 I’m interested in Programming, Web developing ...
+- 👀 I’m interested in Programming, AI building/engineering, Web developing, App dev,  ...
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Frontend developers, AI & ML developer using Python
 - 📫 How to reach me ... You people can reach me through G-mail: nithishanaricle@gmail.com
